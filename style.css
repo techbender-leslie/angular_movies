@@ -1,0 +1,34 @@
+body {
+	padding-top: 20px;
+	background: darkred;
+}
+
+.well {
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-top: 5px;
+}
+
+#movie-body {
+	background: white;
+}
+
+header h1 {
+	background: black;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+a {
+	color: #aaa;
+}
+
+.watched {
+	text-decoration: line-through;
+	color: #aaa;
+}
+
+.watched img {
+	opacity: 0.4;
+}
